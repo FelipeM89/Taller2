@@ -30,7 +30,7 @@ Además, cualquier cadena que contenga el carácter `x` es rechazada inmediatame
 
 ---
 
-## ⚙Ejecución
+## Ejecución
 
 1. Guardar el script como `g2.py`.
 
