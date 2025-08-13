@@ -49,4 +49,14 @@ Esto crea lex.yy.c:
 
 **./analizador archivo.txt**
 
+## Ejemeplo de Ejecucion
+
+
+<img width="484" height="383" alt="Screenshot From 2025-08-13 12-28-15" src="https://github.com/user-attachments/assets/490b1975-6aa7-441e-b539-590ed70537e6" />
+
+
+
+
+
+
 
