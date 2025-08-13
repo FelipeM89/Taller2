@@ -55,4 +55,7 @@ A → a A b | a b
 
 **./analizador3 < archivo.txt**
 
+## Ejemplo de ejecucion
+
+<img width="486" height="320" alt="image" src="https://github.com/user-attachments/assets/38253efb-1996-43f3-8976-cb199ac53851" />
 
