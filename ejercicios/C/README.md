@@ -4,7 +4,7 @@ Este proyecto implementa un analizador que reconoce cadenas con un patrón **est
 
 ---
 
-## 📌 Funcionamiento
+## Funcionamiento
 
 ### 1. Análisis léxico (`g3.l`)
 - Ignora espacios y tabulaciones: `[ \t]+`
