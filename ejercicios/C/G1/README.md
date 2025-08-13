@@ -32,8 +32,21 @@ Se compone de:
 
 1. **Generar parser con Bison**  
    Esto crea `g1.tab.c` y `g1.tab.h`:
-   ```bash
+   
    bison -d g1.y
+   
+2. **Generar lexer con Flex**
 
+Esto crea lex.yy.c:
+
+**flex g1.l**
+
+3. **Compilar todo con GCC:**
+
+**gcc g1.tab.c lex.yy.c -o analizador**
+
+4. Ejecutar el programa:
+
+**./analizador archivo.txt**
 
 
