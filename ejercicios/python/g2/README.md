@@ -40,6 +40,9 @@ Además, cualquier cadena que contenga el carácter `x` es rechazada inmediatame
 
 ## Ejemplo de ejecucion 
 
+<img width="513" height="362" alt="Screenshot From 2025-08-13 13-10-27" src="https://github.com/user-attachments/assets/85f8197e-77e8-463e-a9c6-e2b215c958e1" />
+
+
 
 
 
