@@ -48,3 +48,7 @@ Este proyecto implementa un analizador que reconoce cadenas con un patrón espec
    
    **./analizador2 < archivo.txt**
 
+
+## Ejemplo de ejecucion 
+
+<img width="486" height="364" alt="image" src="https://github.com/user-attachments/assets/962ac27c-6fd7-4351-bf2b-d2dfa8d9347f" />
