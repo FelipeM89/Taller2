@@ -30,7 +30,7 @@ Este proyecto implementa un analizador que reconoce cadenas con un patrón espec
 
 ---
 
-## ⚙ Compilación y ejecución
+## Compilación y ejecución
 
 1. **Generar parser con Bison**  
    Esto crea `g2.tab.c` y `g2.tab.h`:
