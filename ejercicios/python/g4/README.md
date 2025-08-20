@@ -30,6 +30,12 @@ Si la línea coincide con alguno de estos dos patrones, imprime `acepta`. En cua
 2. Ejecutar en consola:
    ```bash
    python g4.py g4.txt
+---
+
+
+   <img width="546" height="308" alt="Screenshot From 2025-08-19 21-46-18" src="https://github.com/user-attachments/assets/afc4c572-b127-4734-9c4a-5ca449629d2f" />
+
+
 
 
 
